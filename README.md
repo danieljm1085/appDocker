@@ -1,7 +1,6 @@
-# Curso de Docker en Platzi
+# Curso de Docker 
 
-Ésta es una aplicación de ejemplo para el curso de Docker de Platzi por Guido
+Ésta es una aplicación de ejemplo para el curso de Docker por Guido
 Vilariño.
 
-Encuentra más información en https://platzi.com, suscríbete al curso y aprende
-a usar Docker de manera profesional.
+
